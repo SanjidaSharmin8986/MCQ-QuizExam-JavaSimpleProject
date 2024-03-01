@@ -1,0 +1,250 @@
+[
+  {
+    "answerkey": 4,
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Decision table testing",
+    "option 4": "Adhoc Testing",
+    "question": "Which is whitebox testing technique?",
+    "option 1": "Equivalent Partitioning",
+    "option 2": "Boundary value testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "It may be difficult to determine if the test has passed or failed.",
+    "option 4": "We cannot automate the user inputs.",
+    "question": "When an expected result is not specified in test case template then ___________.",
+    "option 1": "We cannot run the test.",
+    "option 2": "It may be difficult to repeat the test."
+  },
+  {
+    "answerkey": 1,
+    "option 3": "White box testing",
+    "option 4": "Dynamic testing",
+    "question": "Which Testing is performed first?",
+    "option 1": "Static testing",
+    "option 2": "Smoke testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Test strategy",
+    "option 4": "Project Initiation Note [PIN]",
+    "question": "Which of the following is not part of the Test document?",
+    "option 1": "Test Case",
+    "option 2": "Requirements Traceability Matrix [RTM]"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Deployment phase",
+    "option 4": "Testing closure",
+    "question": "Which of the following is not a valid phase of SDLC (Software Development Life Cycle)?",
+    "option 1": "Testing Phase",
+    "option 2": "Requirement Phase"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Maintainability",
+    "option 4": "None",
+    "question": "Identify the correct functional requirement.",
+    "option 1": "Robustness",
+    "option 2": "Portability"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Retesting",
+    "option 4": "Regression Testing",
+    "question": "Executing the same test case by giving the number of inputs on same build called as",
+    "option 1": "Ad hoc Testing",
+    "option 2": "Sanity Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Quality Assurance",
+    "option 4": "Validation",
+    "question": "To check whether we are developing the right product according to the customer requirements are not. It is a static process",
+    "option 1": "Quality Control",
+    "option 2": "Verification"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Test Analysis and Design",
+    "option 4": "Test Planning and control",
+    "question": "Handover of Test-ware is a part of which Phase",
+    "option 1": "Test Closure Activities",
+    "option 2": "Evaluating exit criteria and reporting"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Usability Testing",
+    "option 4": "Integration Testing",
+    "question": "Testing where in we subject the target of the test , to varying workloads to measure and evaluate the performance behaviors and ability of the target and of the test to continue to function properly under these different workloads",
+    "option 1": "System Testing",
+    "option 2": "Load Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "V model",
+    "option 4": "Incremental",
+    "question": "Which of the following is \/ are not a Iterative Model?",
+    "option 1": "Spiral Model",
+    "option 2": "RAD"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Clear box testing",
+    "option 4": "Glass box testing",
+    "question": "White box testing is not called as___________",
+    "option 1": "Open box testing",
+    "option 2": "Closed box testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "It decreases the software development speed",
+    "option 4": "It can't be expected to catch every error in a program",
+    "question": "Which is not true in case of Unit Testing?",
+    "option 1": "In this tester evaluates if individual units of source code are fit for use",
+    "option 2": "It is usually conducted by the development team"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Unit Regression",
+    "option 4": "Full Regression Testing",
+    "question": "Retesting of a single program or component after a change has been made?",
+    "option 1": "Retesting",
+    "option 2": "Regional Regression"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Smoke testing is performed before each build, while sanity testing is performed after major releases.",
+    "option 4": "Smoke testing is performed by developers, while sanity testing is performed by testers.",
+    "question": "What is the difference between smoke testing and sanity testing?",
+    "option 1": "Smoke testing is performed to check the compatibility of the software with different platforms, while sanity testing is performed to measure the performance of the software.",
+    "option 2": "Smoke testing is performed to ensure that the critical functionalities of the software are working, while sanity testing is performed to validate that the defects have been fixed and to ensure the stability of the software."
+  },
+  {
+    "answerkey": 4,
+    "option 3": "It is a form of testing that does not require human intervention",
+    "option 4": "It involves executing test cases manually without the use of automation tools",
+    "question": "Which of the following statements is true about manual testing?",
+    "option 1": "It is only applicable for simple software applications",
+    "option 2": "It is performed solely by developers"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Time-consuming and labor-intensive",
+    "option 4": "Fully automated test execution",
+    "question": "Which of the following is a common challenge in manual testing?",
+    "option 1": "Limited test coverage",
+    "option 2": "Unreliable test results"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Detailed test result analysis",
+    "option 4": "Early detection of defects",
+    "question": "Which of the following is NOT a benefit of manual testing?",
+    "option 1": "High test execution speed",
+    "option 2": "Realistic simulation of user interactions"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Test planning",
+    "option 4": "Test specification",
+    "question": "Test cases are designed during which of the following stages?",
+    "option 1": "Test recording",
+    "option 2": "Test configuration"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Black box",
+    "option 4": "Combination of all",
+    "question": "The technique applied for usability testing is:",
+    "option 1": "White box",
+    "option 2": "Grey box"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "After programming",
+    "option 4": "After designing",
+    "question": "White-box testing can be started:",
+    "option 1": "After installation",
+    "option 2": "After SRS creation"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Alpha testing",
+    "option 4": "None of the above",
+    "question": "Testing of software with actual data and in an actual environment is known as",
+    "option 1": "Regression testing",
+    "option 2": "Beta testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Customers",
+    "option 4": "None of the mentioned",
+    "question": "Unit testing is done by:",
+    "option 1": "Users",
+    "option 2": "Developers"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Implementation",
+    "option 4": "Requirements Gathering",
+    "question": "In order to control cost, defects should ideally be detected in which phase:",
+    "option 1": "Coding",
+    "option 2": "Design"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "To ensure existing functionality is not affected by changes",
+    "option 4": "To test the user interface design",
+    "question": "What is the purpose of Regression Testing?",
+    "option 1": "To test a new feature in the software",
+    "option 2": "To test the overall system performance"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Functional Testing",
+    "option 4": "Regression Testing",
+    "question": "Which testing technique involves testing the software's internal logic, code structure, and algorithms?",
+    "option 1": "White Box Testing",
+    "option 2": "Black Box Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Error guessing has rules for testing.",
+    "option 4": "Predicate Coverage uses Boolean values.",
+    "question": "Which is not true?",
+    "option 1": "Condition coverage is also known as Predicate Coverage",
+    "option 2": "100% condition coverage does not guarantee 100% decision coverage."
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Smoke and sanity tests can be executed using an automation tool.",
+    "option 4": "When executing both, then first execute sanity testing tests and then smoke Testing.",
+    "question": "Which is not true regarding Smoke and Sanity Testing?",
+    "option 1": "Sanity Testing is also called tester acceptance testing.",
+    "option 2": "Smoke testing performed on a particular build is also known as a build verification test."
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Subset of Regression Testing.",
+    "option 4": "Type of Performance Testing.",
+    "question": "Which is not true in case of Soak Testing?",
+    "option 1": "Also know as Endurance Testing.",
+    "option 2": "Running a system at high levels of load for prolonged periods of time."
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Sanity testing is a cursory testing.",
+    "option 4": "Sanity testing is High Level Testing.",
+    "question": "Which is not true in case of Sanity Testing?",
+    "option 1": "Sanity test is a narrow regression testing.",
+    "option 2": "Sanity test is usually unscripted."
+  }
+]
