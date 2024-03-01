@@ -15,9 +15,7 @@ public class login {
         System.out.println("Enter password:");
         String password = scanner.nextLine();
         JSONArray userarray = Utils.userread();
-//        System.out.println(userarray);
-//        JSONObject userObject = (JSONObject) userarray.get(0);
-//        System.out.println(userObject.get("username"));
+
         if (username.equals(((JSONObject)userarray.get(0)).get("username")) && password.equals(((JSONObject)userarray.get(0)).get("password")))
         {
             System.out.println("Welcome admin! Please create new questions in the question bank.");
@@ -27,11 +25,8 @@ public class login {
         else if (username.equals(((JSONObject)userarray.get(1)).get("username")) && password.equals(((JSONObject)userarray.get(1)).get("password")))
         {
             System.out.println("Welcome "+username+" to the quiz! We will throw you 10 questions. Each MCQ mark is 1 and no negative marking. Are you ready? Press 's' to start.");
-//            Random random = new Random();
-//            int rand =random.nextInt(10);
-//            System.out.println(rand);
             Exam.randommcq();
-            //marks.marks();
+
 
         }
         else
