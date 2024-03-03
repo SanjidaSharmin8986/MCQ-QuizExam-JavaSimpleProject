@@ -10,12 +10,15 @@ quiz consisting of 10 random questions from the bank, and receive immediate feed
   
 Here is a video demonstration how the admin is adding quiz questions to the question bank.
  ####  Admin Panel Showcase 
- [Link to Video](https://github.com/SanjidaSharmin8986/MCQ-QuizExam-JavaSimpleProject/blob/main/admin.mp4)
+ [Link to Video](admin.mp4)
 ### Student
 - Log in s a student, allows user to participte the quiz exam
 - The user will see 10 random questions with options from the question bank.
 - Each correct answer earns 1 point with no negative marking
 - Lastly, the system calculates scores based on user responses and provides corresponding result messages.
+Here is a video demonstration how the student will participate in the exam.
+ ####  Student's Exam Showcase 
+ [Link to Video](student.mp4)
  
 ## Prerequisite
 - JDK
