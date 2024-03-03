@@ -7,6 +7,10 @@ quiz consisting of 10 random questions from the bank, and receive immediate feed
 ### Admin
 - Log in as an admin, allows user to add new questions to the question bank.
 - Admin can add as many questions, as he wishes with 4 multiple choices and correct answer and it will be saved on the quiz.json file.
+  
+Here is a video demonstration how the admin is adding quiz questions to the question bank.
+ ####  Admin Panel Showcase 
+ [Link to Video](https://github.com/SanjidaSharmin8986/MCQ-QuizExam-JavaSimpleProject/blob/main/admin.mp4)
 ### Student
 - Log in s a student, allows user to participte the quiz exam
 - The user will see 10 random questions with options from the question bank.
