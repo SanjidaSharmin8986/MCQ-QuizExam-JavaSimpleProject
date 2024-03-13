@@ -19,7 +19,8 @@ https://github.com/SanjidaSharmin8986/MCQ-QuizExam-JavaSimpleProject/assets/1562
 - Lastly, the system calculates scores based on user responses and provides corresponding result messages.
 Here is a video demonstration how the student will participate in the exam.
  ####  Student's Exam Showcase 
- [Link to Video](student.mp4)
+ https://github.com/SanjidaSharmin8986/MCQ-QuizExam-JavaSimpleProject/assets/156296801/e515b041-6525-4b85-b93b-be87350df4cd
+
  
 ## Prerequisite
 - JDK
