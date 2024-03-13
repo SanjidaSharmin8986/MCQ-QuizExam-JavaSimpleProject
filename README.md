@@ -10,7 +10,8 @@ quiz consisting of 10 random questions from the bank, and receive immediate feed
   
 Here is a video demonstration how the admin is adding quiz questions to the question bank.
  ####  Admin Panel Showcase 
- [Link to Video](admin.mp4)
+https://github.com/SanjidaSharmin8986/MCQ-QuizExam-JavaSimpleProject/assets/156296801/f38ae0e9-3f92-4fa8-a547-79f177f042ec
+
 ### Student
 - Log in s a student, allows user to participte the quiz exam
 - The user will see 10 random questions with options from the question bank.
